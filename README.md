@@ -1,6 +1,6 @@
 ## Quick Find
 - [2D Minecraft](https://github.com/XNUConner/2D-Minecraft) <br />
-    *Minecraft inspired desktop game written in C with SDL2.*
+    *Minecraft inspired desktop game written in C/C++ with SDL2.*
 - [Game of Life](https://github.com/XNUConner/GameOfLife) <br />
     *Conway's [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) simulator written in C with SDL2.*
 - [IP Spoofer](https://github.com/XNUConner/IPSpoofer) <br />
