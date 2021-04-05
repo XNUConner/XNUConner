@@ -19,3 +19,8 @@
     *Partial code written for NIU's [supermilage club](https://www.niusupermileage.com/) in arduino.*
 - [T430 Hackintosh](https://github.com/XNUConner/T430-EFI) <br />
     *Detailed install guide for [hackintosh](https://en.wikipedia.org/wiki/Hackintosh) on the Lenovo T430*
+
+### Links
+- Project portfolio is hosted [here](https://pages.github.io).
+- Resume may be downloaded [here](https://pages.github.io).
+- Blog articles are available [here](https://dev.to/conner).
