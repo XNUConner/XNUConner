@@ -14,7 +14,7 @@
 - [Based Bot](https://github.com/XNUConner/BasedBot) <br />
     *Python bot that tracks user's "based" score on [Telegram](https://telegram.org).*
 - [libKik](https://github.com/XNUConner/Ckik-api) <br />
-    *My first project, a partial C port of tomer8007's [kik-bot API](https://github.com/tomer8007/kik-bot-api-unofficial).*
+    *My first project, a partial C port of tomer8007's [kik-bot API](https://github.com/tomer8007/kik-bot-api-unofficial). Utilizes SSL and Crypto algorithms. <br />
 - [SuperMilage](https://github.com/XNUConner/Supermilage) <br />
     *Partial code written for NIU's [supermilage club](https://www.niusupermileage.com/) in arduino.*
 - [T430 Hackintosh](https://github.com/XNUConner/T430-EFI) <br />
