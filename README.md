@@ -12,7 +12,7 @@
 - [iOS Notes](https://github.com/XNUConner/iOS-dev-notes) <br />
     *Notes I took while learning iOS development.*
 - [Based Bot](https://github.com/XNUConner/BasedBot) <br />
-    *Python bot that tracks user's "based" score on [Telegram](https://telegram.org).*
+    *Python bot that tracks users' based score on [Telegram](https://telegram.org).*
 - [libKik](https://github.com/XNUConner/Ckik-api) <br />
     *My first project, a partial C port of [kik-bot API](https://github.com/tomer8007/kik-bot-api-unofficial) utilizing OpenSSL.* <br />
 - [SuperMilage](https://github.com/XNUConner/Supermilage) <br />
