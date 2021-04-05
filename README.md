@@ -26,9 +26,25 @@
 - Blog articles are available [here](https://dev.to/conner).
 
 ### Skills
+**Programming Languages**
 - C/C++
 - Python
 - NodeJS
 - Swift/iOS
 - Objective-C
 - HTML/CSS
+
+**Libraries, APIs**
+- Standard I/O (C/C++)
+- UNIX Sockets (C/C++)
+- SDL2 (C/C++)
+- OpenSSL (C/C++)
+- UIKit (iOS)
+- CoreData (iOS)
+- SwiftCharts (iOS)
+- Express (NodeJS)
+
+**Operating Systems**
+- MacOS
+- Linux
+- FreeBSD
