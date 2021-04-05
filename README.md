@@ -24,3 +24,11 @@
 - Project portfolio is hosted [here](https://pages.github.io).
 - Resume may be downloaded [here](https://pages.github.io).
 - Blog articles are available [here](https://dev.to/conner).
+
+### Skills
+- C/C++
+- Python
+- NodeJS
+- Swift/iOS
+- Objective-C
+- HTML/CSS
