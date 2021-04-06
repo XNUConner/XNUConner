@@ -48,3 +48,13 @@
 - MacOS
 - Linux
 - FreeBSD
+
+**Technologies**
+- SSH
+- FTP
+- NFS/Samba
+
+**Knowledgebase**
+- Networking (TCP, UDP, IP, ARP, etc)
+- Algorithms
+- Computer Architecture (Stack, Registers, OPCodes, etc)
