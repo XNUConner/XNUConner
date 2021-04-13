@@ -27,6 +27,7 @@
 
 ### Skills
 **Programming Languages**
+- NASM x86 Assembly
 - C/C++
 - Python
 - NodeJS
