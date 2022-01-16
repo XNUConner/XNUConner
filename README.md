@@ -1,4 +1,6 @@
 ## Repo Quick Find
+- [Blueprynt](https://github.com/XNUConner/ios-pt5-bw4-conner-jarren) <br />
+   *Home renovation expense tracking app with beautiful UI.*
 - [2D Minecraft](https://github.com/XNUConner/2D-Minecraft) <br />
     *Minecraft inspired desktop game written in C/C++ with SDL2.*
 - [Game of Life](https://github.com/XNUConner/GameOfLife) <br />
@@ -21,7 +23,6 @@
     *Detailed install guide for [hackintosh](https://en.wikipedia.org/wiki/Hackintosh) on the Lenovo T430*
 
 ### Links
-- Project portfolio is hosted [here](https://pages.github.io).
 - Resume may be downloaded [here](https://pages.github.io).
 - Blog articles are available [here](https://dev.to/conner).
 
