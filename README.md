@@ -1,5 +1,5 @@
 ## Repo Quick Find
-- **[New]** [cppmatrix](https://github.com/XNUConner/cppmatrix)<br />
+- [cppmatrix](https://github.com/XNUConner/cppmatrix)<br />
     *Early code for ncurses cpp client written in C++*
 - [Blueprynt](https://github.com/XNUConner/ios-pt5-bw4-conner-jarren) <br />
     *Home renovation expense tracking app with beautiful UI.*
