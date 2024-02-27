@@ -1,4 +1,8 @@
 ## Repo Quick Find
+- [Chess](https://github.com/XNUConner/Chess-rs)<br />
+    *A chess program written in Rust*
+- [Pathfinding Visualizer](https://github.com/XNUConner/pfv-webgl)<br/>
+    *A webgl application for visualizing pathfinding algorithms*
 - [cppmatrix](https://github.com/XNUConner/cppmatrix)<br />
     *Early code for ncurses cpp client written in C++*
 - [Blueprynt](https://github.com/XNUConner/ios-pt5-bw4-conner-jarren) <br />
